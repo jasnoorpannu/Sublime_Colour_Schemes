@@ -8,7 +8,6 @@ Welcome to the Sublime Text Colour Schemes repository! This repository contains 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
