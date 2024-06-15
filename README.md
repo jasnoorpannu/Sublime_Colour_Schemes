@@ -7,7 +7,6 @@ Welcome to the Sublime Text Colour Schemes repository! This repository contains 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Introduction
@@ -39,26 +38,6 @@ To install a colour scheme from this repository, follow these steps:
 3. Select the colour scheme you copied to the `User` directory.
 
 Enjoy your new Sublime Text look!
-
-## Contributing
-
-We welcome contributions from the community. If you have a colour scheme you would like to add or improvements to existing ones, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or improvement.
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes.
-    ```bash
-    git commit -m "Add your feature description"
-    ```
-4. Push to your branch.
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. Open a pull request and describe your changes.
-
 
 ## Contact
 
